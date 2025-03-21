@@ -1,4 +1,4 @@
 # demo
 this is my first repository
 <br>
-author - Vikram
+author - Vikram Dhull
